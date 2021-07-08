@@ -2,7 +2,7 @@
 function slackpost($text)
 {
     $headers = [
-        'Authorization: Bearer xoxp-2226500579249-2220048374996-2199122845959-84d7b5ef0964b36e45a3da6588e8cb4b',
+        'Authorization: Bearer ',
         'Content-Type: application/json;charset=utf-8'
     ];
 
